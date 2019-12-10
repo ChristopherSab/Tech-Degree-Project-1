@@ -89,8 +89,8 @@ header .profile-image:hover {
   color: yellow;
 }
 .card {
-  margin: 30px;
-  padding: 20px 40px 40px;
+  margin: 10px;
+  padding: 20px 30px 40px;
   max-width: 500px;
   text-align: left;
   background: #fff;
@@ -119,6 +119,15 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
+
+.jobs li {
+
+  line-height: 2.5rem;
+  font-weight: bold;
+
+}
+
+/*Footer Section*/
 
 footer {
   width: 100%;
