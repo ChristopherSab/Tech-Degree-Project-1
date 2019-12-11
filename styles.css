@@ -121,6 +121,16 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 
+.section-img {
+
+  width: 330px;
+  height: 150px;
+  border-radius: 5px;
+  opacity: 0.7;
+
+
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
@@ -212,15 +222,6 @@ a.social:hover {
   clear: both;
 }
 
-.footer-bg {
-
-  z-index: -1;
-  opacity: 0.5;
-  height: 50px;
-  width: 1000px;
-
-
-}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
