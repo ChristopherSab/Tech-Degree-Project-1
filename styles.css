@@ -83,6 +83,7 @@ header .profile-image {
 
 header .profile-image:hover {
   transform: scale(1.2) rotate(7deg);
+  border: 1px solid gray;
 }
 
 .tag , h2 {
