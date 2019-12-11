@@ -111,11 +111,11 @@ header .profile-image:hover {
   padding: 20px 30px 40px;
   max-width: 500px;
   text-align: center;
-  background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
 }
+
 
 .card:hover {
   border-color: #ff99ff;
@@ -210,6 +210,16 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+
+.footer-bg {
+
+  z-index: -1;
+  opacity: 0.5;
+  height: 50px;
+  width: 1000px;
+
+
 }
 
 /* Styles for larger screens */
